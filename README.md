@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rohitz123
-- 👀 I’m interested in Robotic Engineer
-- 🌱 I’m currently learning ROS and Kinematic
-- 💞️ I’m looking to collaborate on with any concept with design
+- 👀 I’m interested in Robotic Engineer.
+- 🌱 I’m currently learning ROS and Math.
+- 💞️ I’m looking to collaborate on with any concept with design.
 - 📫 How to reach me twitter or insta.
 
 <!---
